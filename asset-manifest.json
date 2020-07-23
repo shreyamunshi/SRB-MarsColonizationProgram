@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SRB-MarsColonizationProgram/static/css/main.8fc251e4.chunk.css",
+    "main.js": "/SRB-MarsColonizationProgram/static/js/main.0c651913.chunk.js",
+    "main.js.map": "/SRB-MarsColonizationProgram/static/js/main.0c651913.chunk.js.map",
+    "runtime-main.js": "/SRB-MarsColonizationProgram/static/js/runtime-main.261eff22.js",
+    "runtime-main.js.map": "/SRB-MarsColonizationProgram/static/js/runtime-main.261eff22.js.map",
+    "static/js/2.289d3f89.chunk.js": "/SRB-MarsColonizationProgram/static/js/2.289d3f89.chunk.js",
+    "static/js/2.289d3f89.chunk.js.map": "/SRB-MarsColonizationProgram/static/js/2.289d3f89.chunk.js.map",
+    "index.html": "/SRB-MarsColonizationProgram/index.html",
+    "precache-manifest.1ff736f6b9269b888decdf43362627f7.js": "/SRB-MarsColonizationProgram/precache-manifest.1ff736f6b9269b888decdf43362627f7.js",
+    "service-worker.js": "/SRB-MarsColonizationProgram/service-worker.js",
+    "static/css/main.8fc251e4.chunk.css.map": "/SRB-MarsColonizationProgram/static/css/main.8fc251e4.chunk.css.map",
+    "static/js/2.289d3f89.chunk.js.LICENSE.txt": "/SRB-MarsColonizationProgram/static/js/2.289d3f89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.261eff22.js",
+    "static/js/2.289d3f89.chunk.js",
+    "static/css/main.8fc251e4.chunk.css",
+    "static/js/main.0c651913.chunk.js"
+  ]
+}
