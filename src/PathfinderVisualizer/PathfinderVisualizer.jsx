@@ -250,34 +250,7 @@ export default class PathfinderVisualizer extends Component {
     }    
   }
 
-  /**
-   * Function that changes the obstacke setup
-   */
-  /*changeObstacles(){
-    if (this.state.isVisualizing) return;
-    // if (!this.state.visualizationBeenReset) return;
-    randomGenerator = true;
-    const grid = getInitialGrid();
-    this.setState({grid});
-    this.minorResetGrid(grid);
-    this.setState({visualizationBeenReset: true});
-  }*/
-
-  /**
-   * Function that generates Random Obstacle SetUp given a particular obstacle density
-   */
-  /*changeDensity(density){
-    if (this.state.isVisualizing) return;
-    // if (!this.state.visualizationBeenReset) return;
-    randomGenerator = true;
-    defaultRandomWallGenerator = density;
-    const grid = getInitialGrid();
-    this.setState({grid});
-    this.minorResetGrid(grid);
-    this.setState({visualizationBeenReset: true});
-
-  }*/
-  /**
+   /**
    * Function to show or hide obstacles On or Off
    */
   toggleObstacles(){
